@@ -21,6 +21,7 @@ int main()
 OUTPUT:
 
  Hello world
+
 2:To fill your information
   // To fill your information
 #include<stdio.h>
@@ -51,18 +52,19 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 OUTPUT:
 
 Enter your information:
-Name = Devil
+Name = Gunvirsingh
 
-Roll no=1921023
+Roll no=1921030
 
-Age = 18
+Age = 19
 
-Phone no.= 8847547031
+Phone no.= 8054629409
 
-The name is Devil
-Your roll no is 1921023
-My phone number is 8847547031
- My age is 18
+The name is gunvir
+Your roll no is 1921030
+My phone number is 8054629409
+ My age is 19
+
 3:Sum and average of numbers
  // sum and average of number
 #include<stdio.h>
@@ -100,6 +102,7 @@ OUTPUT:
 Enter two numbers to get sum:50 50
  
 The result is :50 + 50= 100
+
 5:To show area,perimeter,volume of square
 //Area,premiter,volume of square
 #include<stdio.h>
@@ -146,6 +149,7 @@ OR
 
 Enter a number:7
 The number is odd
+
 7:To show the size of int,float,char,double,long,short
  // size of int, float, char, double, long, short
 #include<stdio.h>
@@ -166,6 +170,7 @@ character:1
 double:8
 short:2
 long:8
+
 8:To show area,diameter,circumference of circle
    #include<stdio.h>
  int main()
@@ -185,6 +190,7 @@ Enter radius of circle:6
 diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
+
 9:To show puts value upto n number using loop
 // to show punishment using loop
  #include<stdio.h>
@@ -210,6 +216,7 @@ WORK HARD AND ACHIEVE SUCCESS
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS
+
 10:To find area and volume of rectangle
 //find area and volume of rectangle
 #include<stdio.h>
@@ -236,6 +243,7 @@ Enter height of rectangle:4
 
 The area of rectangle is:12
 The volume is :48
+
 11:To show even table
 //To show only even table
 #include<stdio.h>
@@ -277,6 +285,7 @@ tabel of:16
 16 X 18=288
 16 X 19=304
 16 X 20=320
+
 12:To show stars pattern
  // TO show stars using loop 
 #include<stdio.h>
@@ -306,6 +315,7 @@ Enter the no. to show pattern:8
 * * * 
 * * 
 *
+
 13:To convert Fahrehnite to Celcius
 //to convert fahrehnite to celcius
 #include<stdio.h>
@@ -349,6 +359,7 @@ OUTPUT:
 15 x 8 = 120
 15 x 9 = 135
 15 x 10 = 150
+
 15: To show the table range
 //To show a range of table upto user input
 #include<stdio.h>
@@ -383,6 +394,7 @@ table of:5
 5 x 28 = 140
 5 x 29 = 145
 5 x 30 = 150
+
 16:To call a patterns of face and calculator
 // call a pattern of face or calculator
              #include<stdio.h>
@@ -484,6 +496,7 @@ OUTPUT:
 
 Enter the factorial of:5
 5 X 4 X 3 X 2 X 1 X = 120
+
 18:Matrix multipication
 #include<stdio.h>
 int main()
@@ -583,6 +596,7 @@ enter first  number:20
 enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
+
 20:To show stars pattern
 //to show star pattern for n numbers
 #include<stdio.h>
@@ -613,6 +627,7 @@ Enter the value upto pattern is shown:8
 * * * * * * 
 * * * * * * * 
 * * * * * * * *
+
 21:To convert fahrehnite to celcius and kelvin
   // To covert  fahrenheit to celsius and kelvin
                  #include<stdio.h>
@@ -663,6 +678,7 @@ _  _
 |19 22|
 |43 50|
 _  _
+
 23: TABLE OF YOUR CHOICE
 #include<stdio.h>
 int main()
