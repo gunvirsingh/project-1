@@ -10,6 +10,7 @@ Section : I.T. A1
 My C programes assignment
 
 
+
 1:To print hello world
 //To print  hello world
 #include<stdio.h>
@@ -20,7 +21,6 @@ int main()
 OUTPUT:
 
  Hello world
-
 2:To fill your information
   // To fill your information
 #include<stdio.h>
